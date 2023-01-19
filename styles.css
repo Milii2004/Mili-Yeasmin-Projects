@@ -1,0 +1,14 @@
+body{
+	background-color: #B23030;   
+}
+
+h1{
+	color: white;
+	display: inline;
+    padding: 50px;
+}
+
+div {
+    background-color: black;
+    border-radius: 15px;
+}
